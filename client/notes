@@ -6,3 +6,10 @@ front end vercel  link
 for normal working remove the comments that are madde for deployment in .env of front end
 
 Below are the steps to setup the project
+
+change in api .env  for depyment
+
+CLIENT_URL=https://my-airbnb-wine.vercel.app
+changing normal with this not here but also in render
+
+
