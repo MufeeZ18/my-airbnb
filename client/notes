@@ -1,0 +1,8 @@
+backend render link https://my-airbnb-vfmv.onrender.com
+
+front end vercel  link 
+
+
+for normal working remove the comments that are madde for deployment in .env of front end
+
+Below are the steps to setup the project
