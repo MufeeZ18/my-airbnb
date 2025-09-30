@@ -12,4 +12,7 @@ change in api .env  for depyment
 CLIENT_URL=https://my-airbnb-wine.vercel.app
 changing normal with this not here but also in render
 
+Changes
 
+.env both
+index.js app.use 

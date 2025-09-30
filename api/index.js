@@ -45,10 +45,9 @@ app.use(
 );
 
 // use express router
-// app.use("/", require("./routes"));
+app.use("/", require("./routes"));
 // below is the changed one 
 
-app.use("/api", require("./routes"));
 
 
 app.listen(process.env.PORT || 8000, (err) => {
